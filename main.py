@@ -11,7 +11,11 @@ type_ax = int(
 if type_ax == 3:
     abciss = str(input("Значение по оси х:"))
     ordinata = str(input("Значение по оси y:"))
+
     data_x = int(input("Введите колво точек:"))
+
+    data_x = int(input("Введите ко точек:"))
+
     data_y = data_x
 
 while data_x > 0:
