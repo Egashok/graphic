@@ -14,7 +14,7 @@ if type_ax == 3:
 
     data_x = int(input("Введите колво точек:"))
 
-    data_x = int(input("Введите ко точек:"))
+    data_x = int(input("Введите колво точек:"))
 
     data_y = data_x
 
